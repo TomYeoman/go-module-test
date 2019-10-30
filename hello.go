@@ -1,12 +1,12 @@
-package main
+package hello
 
 import "github.com/fatih/color"
 
 // Hi Returns hello world
 
-func main() {
-	color.Cyan("Main text in cyan.")
-}
+// func main() {
+// 	color.Cyan("Main text in cyan.")
+// }
 
 func Hi() string {
 	color.Cyan("Prints text in cyan.")
