@@ -1,4 +1,4 @@
-module test/test
+module github.com/TomYeoman/go-module-test
 
 go 1.12
 
